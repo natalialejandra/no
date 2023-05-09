@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Raleway:wght@100&display=swap');
+
+body {
+	margin: 0px 90px 0px 90px;
+}
+
+.graph {
+	display: block;
+	width: 100%;
+ 	max-width: 600px;
+	height: auto;
+}
+
+.date-line {
+	font-size: 15px;
+	color: grey;
+	font-family: Raleway, sans-serif;
+	font-weight: bolder;
+}
+
+.body {
+	font-style: bolder;
+	position: fixed;
+	max-width: 650px;
+}
+
+.content {
+  font-size: 20px;
+}
+
+
+.container {
+	font-family: Times New Roman, sans-serif;
+	align: left;
+	max-width: 15px;
+	padding-right: 10px;
+}
+
+.datavisual {
+	max-width: 300px;
+	display: block;
+	margin: auto;
+}
+
+h1 {
+	font-family: Abril Fatface, sans-serif;
+	font-size: 40px;
+	text-align: center;
+	margin: 0px 0px 15px 0px;
+	border: black solid 2px;
+	padding: 10px;
+ }
+
+.story-headline {
+	font-weight: bolder;
+	font-size:35px;
+	font-family: Abril Fatface, sans-serif;
+	margin: auto;
+	padding-top: 20px;
+}
+
+.byline {
+	font-size: 17px;
+	color: black;
+	font-family: Raleway, sans-serif;
+	font-weight: bolder;
+	padding-top: 10px;
+}
+
+.photo-caption {
+	font-size: 14px;
+	color: grey;
+	max-width: 100%;
+	font-family: Times New Roman, sans-serif;
+	
+}
+
+img {
+	display: block;
+	width: 100%;
+ 	max-width: 800px;
+	height: auto;
+}
+
+.photo-2 {
+	display: block;
+	width: 100%;
+ 	max-width: 650px;
+	height: auto;
+}
+
+.container-fluid {
+	max-width: 100%;
+}
+
+a:link {
+	color: #395B3D;
+	font-weight: bold;
+}
+
+a:visited {
+	color: #B9A383;
+}
+
+a:hover {
+	color: #E7D2B5;
+}
